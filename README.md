@@ -1,4 +1,4 @@
-<h2>Hello 👋, my name is Luis Garcia</h2>
+<h2>Hello 👋 my name is Luis Garcia</h2>
 <img align='right' src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="230">
 <p><em>Junior Software Developer</em></p>
 <p>Mainly focused on <strong>web technologies</strong></p>
@@ -8,15 +8,20 @@
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnI5ajM2a3diNnRzdThycmtsbm9qODdkbDB5N3c5OWdoaWtvem1rdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ul4u1oVoVB9Z6wBQCO/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Luis = {
+const luis = {
     code: ["Javascript", "HTML/CSS", "PHP"],
     technologies: {
-        frontEnd: ["React",  "Bootstrap"],
+        frontEnd: ["React", "Bootstrap"],
         backEnd: ["Laravel", "NodeJS", "Express"],
-        databases: "MySql",
+        database: "MySql",
         misc: ["Git/Github","Basic Linux", "Puppeteer", "Adobe Illustrator"]
     },
-    currentFocus: "Get better, make mistakes and learn a lot"
+    currentlyWorkingOn: {
+        javascript: ["Learning route", "Ongoing projects"]
+        typescript: "Learning route",
+        rust: "Learning route"
+    },
+    currentFocus: "Learn a lot, get better and grow wiser"
 };
 ```
 
@@ -29,10 +34,10 @@ const Luis = {
 ##
 
 <div style="display: inline_block"><br>
+
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-          
+   
 </div>
