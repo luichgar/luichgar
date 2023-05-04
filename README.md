@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Info Github
 <div>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=luichgar&show_icons=true&theme=tokyonight&include_allcommits=true&count_private=true" />
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=luichgar&show_icons=true&theme=onedark&include_allcommits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luichgar&layout=compact&langs_count=16&theme=dark">
 </div>
 
