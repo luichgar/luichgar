@@ -26,10 +26,10 @@ const luis = {
 ```
 
 ### Info Github
-<div>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=luichgar&show_icons=true&theme=onedark&include_allcommits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luichgar&layout=compact&langs_count=16&theme=dark">
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=luichgar&theme=tokyonight-duo&border_radius=0&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuluichgarraghazra&layout=compact)]
+
 
 ##
 
