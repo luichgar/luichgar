@@ -1,18 +1,23 @@
-### Hi there 👋
+<h2>Hello 👋, my name is Luis Garcia</h2>
+<p><em>Junior Software Developer</em></p>
+<p>Mainly focused on <strong>web technologies</strong></p>
 
+[![Website](https://img.shields.io/website?up_message=luichgar&up_color=green&url=https%3A%2F%2Fwww.linkedin.com%2F&style=flat-sqare&logo=Linkedin&logoColor=green)](https://www.linkedin.com/)
 
-**luichgar/luichgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?up_message=placeholder&url=https%3A%2F%2Fexample.com%2F&style=flat-square&logo=Google-Chrome&logoColor=green)](https://example.com/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```javascript
+const Luis = {
+    code: ["Javascript", "HTML/CSS", "PHP"],
+    technologies: {
+        FrontEnd: ["React",  "Bootstrap"]
+        BackEnd: ["Laravel", "NodeJS", "Express"],
+        databases: "MySql",
+        misc: ["Git/Github","Basic Linux", "Puppeteer", "Adobe Illustrator"]
+    },
+    currentFocus: "Get better, make mistakes and learn a lot"
+};
+```
 
 ### Info Github
 <div>
