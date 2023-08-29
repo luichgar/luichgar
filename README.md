@@ -3,7 +3,7 @@
 <p><em>Junior Software Developer</em></p>
 <p>Mainly focused on <strong>web technologies</strong></p>
 
-[![Website](https://img.shields.io/website?up_message=luichgar&up_color=green&url=https%3A%2F%2Fwww.linkedin.com%2F&style=flat-sqare&logo=Linkedin&logoColor=green&label=Linkedin)](https://www.linkedin.com/) [![Website](https://img.shields.io/website?up_message=placeholder&up_color=green&url=https%3A%2F%2Fexample.com%2F&style=flat-square&logo=Google-Chrome&logoColor=green)](https://example.com/)
+[![Website](https://img.shields.io/website?up_message=placeholder&up_color=green&url=https%3A%2F%2Fwww.linkedin.com%2F&style=flat-square&logo=Linkedin&logoColor=green&label=Linkedin)](https://www.linkedin.com/) [![Website](https://img.shields.io/website?up_message=placeholder&up_color=green&url=https%3A%2F%2Fexample.com%2F&style=flat-square&logo=Google-Chrome&logoColor=green)](https://example.com/)
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnI5ajM2a3diNnRzdThycmtsbm9qODdkbDB5N3c5OWdoaWtvem1rdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ul4u1oVoVB9Z6wBQCO/giphy.gif" width="50"> A little more about me...  
 
@@ -27,7 +27,7 @@ const luis = {
 
 ### Github Info
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=luichgar&theme=tokyonight-duo&border_radius=0&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=luichgar&theme=tokyonight-duo&border_radius=4)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luichgar&layout=compact)
 
 ##
