@@ -17,7 +17,7 @@ const luis = {
         misc: ["Git/Github","Basic Linux", "Puppeteer", "Adobe Illustrator"]
     },
     currentlyWorkingOn: {
-        javascript: ["Learning route", "Ongoing projects"]
+        javascript: ["Learning route", "Ongoing projects"],
         typescript: "Learning route",
         rust: "Learning route"
     },
